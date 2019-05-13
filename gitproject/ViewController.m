@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"Dev2");
+    NSLog(@"Dev1");
 }
 
 
