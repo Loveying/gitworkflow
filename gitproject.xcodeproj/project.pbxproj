@@ -13,6 +13,7 @@
 		42357FB4228951B800B0E027 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42357FB3228951B800B0E027 /* Assets.xcassets */; };
 		42357FB7228951B800B0E027 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42357FB5228951B800B0E027 /* LaunchScreen.storyboard */; };
 		42357FBA228951B800B0E027 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 42357FB9228951B800B0E027 /* main.m */; };
+		42357FC222895B1300B0E027 /* Dev2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 42357FC122895B1300B0E027 /* Dev2ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		42357FB6228951B800B0E027 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		42357FB8228951B800B0E027 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		42357FB9228951B800B0E027 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		42357FC022895B1300B0E027 /* Dev2ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Dev2ViewController.h; sourceTree = "<group>"; };
+		42357FC122895B1300B0E027 /* Dev2ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dev2ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				42357FAB228951B600B0E027 /* AppDelegate.m */,
 				42357FAD228951B600B0E027 /* ViewController.h */,
 				42357FAE228951B600B0E027 /* ViewController.m */,
+				42357FC022895B1300B0E027 /* Dev2ViewController.h */,
+				42357FC122895B1300B0E027 /* Dev2ViewController.m */,
 				42357FB0228951B600B0E027 /* Main.storyboard */,
 				42357FB3228951B800B0E027 /* Assets.xcassets */,
 				42357FB5228951B800B0E027 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				42357FAF228951B600B0E027 /* ViewController.m in Sources */,
 				42357FBA228951B800B0E027 /* main.m in Sources */,
 				42357FAC228951B600B0E027 /* AppDelegate.m in Sources */,
+				42357FC222895B1300B0E027 /* Dev2ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
